@@ -34,5 +34,3 @@ This project focuses on designing a traffic light control system for the interse
 - Open the project in Aldec Active-HDL.
 - Run the simulation using the provided test bench.
 
-## Contributions
-Contributions to this project are welcome. Please fork the repository and submit pull requests for review.
